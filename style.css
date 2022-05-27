@@ -1,0 +1,26 @@
+* {
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+
+.container-flex {
+
+    display:flex; 
+    background: rgb(158, 30, 30);
+    width: 50%;
+    height: 500px;
+    margin: auto;
+} 
+
+.itemflex {
+
+    width: 100px;
+    height: 100px;
+    background: rgb(235, 235, 235);
+    margin: 3px;
+    border-radius: 5px;
+}
